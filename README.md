@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😊This is Xiaoyuan (studio) account😊
+😊This is XiaoYuan (Studio) account😊
 
 😇Windows is my operating system when I develop malware😇
 
