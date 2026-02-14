@@ -1,27 +1,38 @@
-### Hello stranger (...) 👋
+## Hi there!
 
-[EN](README.md) | [CN](README_CN.md)
-<!--
-**xiaoyuan151/xiaoyuan151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **XiaoYuan151** from Guangxi, China.  
+I'm 17 years old and I'm just a normal student in a senior high school.  
+You can call me `小源151` `源神987` in Chinese or `Xiao Yuan` in English.  
+I'm a BGP Player and my ASN is `AS209601` with zero router.  
+I created [XiaoYuan Studio](https://github.com/XiaoYuanStd) and [XiaoYuan AI](https://github.com/XiaoYuan-AI) that making some interesting things.  
+I'm also a [SiiWay Team](https://github.com/siiway) core or member.  
+**Neuro-sama is my only oshi.**
 
-Here are some ideas to get you started:
+Here is programming language I use:
+ - C#
+ - Python
+ - Rust (Learning)
+ - Javascript (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is operating system I use:
+ - Windows 11
+ - Windows 10
+ - macOS Tahoe
+ - Debian 13
+ - Arch Linux
 
-😊This is XiaoYuan (Studio) account😊
+My personal website:
+ - [Homepage](https://www.xiaoyuan151.com)
+ - [Blog](https://blog.xiaoyuan151.com)
 
-😇Windows is my operating system when I develop malware😇
+Support me by:
+ - [Ko-fi](https://ko-fi.com/xiaoyuan151)
+ - [Buy Me a Coffee](https://buymeacoffee.com/xiaoyuan151)
+ - Paypal (Contact me for more information)
+ - Bank transfer (Contact me for more information)
+ - Crypto (BTC): 3DPDaQ63u7nKJpc1jYgrPQTmu5vfgaWpUB
+ - Crypto (ERC20 BEP20): 0xA57F5F34f6a0B8f44C3363dBA6Dd996f801A0500
+ - Crypto (TRC20): TUVwPUf1NMFUbeuLQ91Qa4fPDWzZsxEwyF
 
-😙macOS is my favorite operating system, it is also used for the development of Node.js and Python😙
-
-😎Minecraft is my favorite sandbox game, CS2 is my favorite gun game, ~~Genshin Impact is my favorite open world game~~😎
-
-🤨I live in mainland China, I like Apple, I like all products from the Steve Jobs era, I like malware, I like software reverse analysis, I like making front-end and back-end, I like toying with AI, I don’t want to join any political disputes, and I don’t like GitHub political propaganda content, does not like mainland China's GFW policy, does not like the development environment in mainland China, does not like Huawei's boasted HarmonyOS, does not like making remote control software, opposes violations of open source agreements, and opposes using loopholes to invade other people's computers. , oppose the implantation of backdoors in software, and oppose the use of malware to make money🤨
+### My stats
+[![XiaoYuan151's GitHub stats](https://stats.xiaoyuan151.net/api?username=XiaoYuan151&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
